@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050827349373",
+    "project_id": "cbotdb",
+    "storage_bucket": "cbotdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050827349373:android:ca774d3c3cac2b6c334014",
+        "android_client_info": {
+          "package_name": "com.example.cbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050827349373-r15jrnou2qo3ra81ju003aol7smvn0m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cbot",
+            "certificate_hash": "d0014027c780f62aac829ac1af1be020954573dd"
+          }
+        },
+        {
+          "client_id": "1050827349373-09po7fg82om8ca4p8q94c0rn9039nlgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZdCOxEQ4Os81W80dNwgO9O1ZjD5QA7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050827349373-09po7fg82om8ca4p8q94c0rn9039nlgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
